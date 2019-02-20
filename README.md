@@ -1,4 +1,4 @@
-# Accident Detection Using CNN
+# Accident Detection Using CNN-LSTM Approach
 ## This is a team project, where our aim was to detect accidents on highways for speedy communication to nearby hospital/police station
 ### Approach:
 1. Trained Imagenet with 50000 images for both Accident and Non-Accident
